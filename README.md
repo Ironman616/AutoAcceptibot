@@ -1,5 +1,5 @@
 <h1 align="center">
- <b><a href="https://youtu.be/vNyvyCVer4g" target="/blank">Auto Approve Bot</a>
+ <b><a href="https://yotu.be/vNyvyCVer4g" target="/blank">Auto Approve Bot</a>
 </h1>
 
 <p align="center">🩷 Thanks for Being Here 🩷</p>
@@ -16,7 +16,7 @@
 - Multi Force Sub available
 - Broadcast available
 - Deploy To Koyeb + Heroku + Railway + Render + VPS + Okteto
-- [Developer support](https://telegram.me/TechifySupport) 24x7
+- [Developer support](https://telegram.me/suport) 24x7
 </details>
 
 ### 😍 COMMANDS
@@ -39,21 +39,10 @@ broadcast - Broadcast Massage Send All Users In Bot.
   - `API_ID` - Your Telegram API ID.Get it [Here](https://youtu.be/y5FwAobQ-Kc)
   - `API_HASH` - Your Telegram API HASH.Get it [Here](https://youtu.be/y5FwAobQ-Kc)
   - `PICS` - Your bot start images (you can add multiple images)
-  - `DB_URI` - Mongodb [Database](https://youtu.be/j8LIuM7vv18)
+  - `DB_URI` - Mongodb [Database](https://yotu.be/j8LIuM7vv18)
   - `BOT_TOKEN` - Get From [BotFather](https://youtu.be/aJILCCXfNVM)
   - `AUTH_CHANNELS` - Your Force subscribe channel id.
    - `LOG_CHANNEL` - Your log channel id
   - `ADMINS` - bot owners Id/ ids ( for broadcast and stats cmds). for multiple use space.
 </details>
 
-### 💞 CREDIT
-
-- [TechifyBots](https://github.com/TechifyBots)
-
-### 😇 [SUPPORT](https://techifybots.github.io/PayWeb)
-
-### 🥳 [DEVELOPER](https://instagram.com/TechifyRahul)
-
-### 📌 NOTE
-
-𝘊𝘰𝘱𝘺𝘪𝘯𝘨 𝘰𝘳 𝘚𝘦𝘭𝘭𝘪𝘯𝘨 𝘵𝘩𝘪𝘴 𝘳𝘦𝘱𝘰 𝘪𝘴 𝘴𝘵𝘳𝘪𝘤𝘵𝘭𝘺 𝘱𝘳𝘰𝘩𝘪𝘣𝘪𝘵𝘦𝘥.</b>
